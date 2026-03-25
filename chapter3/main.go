@@ -1,3 +1,5 @@
+//VARIABLES
+
 package main
 
 import(
